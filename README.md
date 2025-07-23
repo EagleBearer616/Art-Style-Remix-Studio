@@ -58,3 +58,8 @@ This project is a Demonstration Model as it still needs to be integrate with act
 
 ## OUTPUT
 
+<img width="1445" height="780" alt="Image" src="https://github.com/user-attachments/assets/286b0ff1-b02f-4faa-8d5d-ea676c429f75" />
+
+<img width="1495" height="934" alt="Image" src="https://github.com/user-attachments/assets/43c46091-040a-4bbd-85fd-308ca81477fe" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3edc1a27-f8ef-49c6-9576-623bd656eb06" />
